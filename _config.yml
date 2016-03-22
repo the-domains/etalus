@@ -1,0 +1,28 @@
+name: Etalus
+favicon: null
+layout_spectrum: 0.0844571148045361
+typography_spectrum: 0.7186060182284564
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.3345712625887245
+  lightness: 0.3903929670341313
+  saturation: 0.6589462577831
+  rhythmicContrast: 0.7153143289033324
+purpose: []
